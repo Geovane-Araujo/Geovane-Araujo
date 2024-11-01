@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovane-Araujo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Araujo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Geovane-Araujo&theme=tokyonight&hide_border=true&border_radius=4.7&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
